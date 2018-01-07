@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrimpIt", "Assembly-CSharp.csproj", "{4C599CD4-9D71-A06B-3182-EC052FCF872C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrimpIt", "Assembly-CSharp-firstpass.csproj", "{0D744786-7266-705A-3185-2EF5114EF8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrimpIt", "Assembly-CSharp-Editor-firstpass.csproj", "{3D8E75F2-16F4-6D9F-EE98-778B330B0808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C599CD4-9D71-A06B-3182-EC052FCF872C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C599CD4-9D71-A06B-3182-EC052FCF872C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C599CD4-9D71-A06B-3182-EC052FCF872C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C599CD4-9D71-A06B-3182-EC052FCF872C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D744786-7266-705A-3185-2EF5114EF8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D744786-7266-705A-3185-2EF5114EF8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D744786-7266-705A-3185-2EF5114EF8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D744786-7266-705A-3185-2EF5114EF8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8E75F2-16F4-6D9F-EE98-778B330B0808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8E75F2-16F4-6D9F-EE98-778B330B0808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8E75F2-16F4-6D9F-EE98-778B330B0808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8E75F2-16F4-6D9F-EE98-778B330B0808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
