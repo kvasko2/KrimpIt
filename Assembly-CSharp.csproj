@@ -51,9 +51,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Kinect\GreenScreen\Scripts\CoordinateMapperManager.cs" />
-     <Compile Include="Assets\Kinect\GreenScreen\Scripts\CoordinateMapperView.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\GreenScreen\Scripts\CoordinateMapperManager.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\GreenScreen\Scripts\CoordinateMapperView.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\BodySourceManager.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\BodySourceView.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\ColorSourceManager.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\ColorSourceView.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\DepthSourceManager.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\DepthSourceView.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\DisableOnStart.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\InfraredSourceManager.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\InfraredSourceView.cs" />
+     <Compile Include="Assets\Kinect\Kinect_other_package\KinectView\Scripts\MultiSourceManager.cs" />
+     <Compile Include="Assets\Scripts\DetectJoints.cs" />
+     <None Include="Assets\Kinect\Kinect_other_package\ReadMe.txt" />
      <None Include="Assets\Kinect\GreenScreen\Materials\GreenScreenShader.shader" />
+     <None Include="Assets\Kinect\Kinect_other_package\GreenScreen\Materials\GreenScreenShader.shader" />
      <None Include="Assets\Kinect\ReadMe.txt" />
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>D:/Software/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
